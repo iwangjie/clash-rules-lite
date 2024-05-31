@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,music
-  - DOMAIN-KEYWORD,meituan  
+  - DOMAIN-KEYWORD,meituan
+  - DOMAIN-KEYWORD,bilibili
